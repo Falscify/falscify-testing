@@ -1,5 +1,4 @@
-# Falscify testing
-## Falscify Automated Testing with Selenium Python
+# Falscify Automated Testing with Selenium Python
 This repository contains automated tests for the Falscify website using Selenium and Python. The tests are designed to verify the functionality and behavior of the website to ensure its proper functioning.
 
 ## Prerequisites
